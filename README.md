@@ -27,6 +27,7 @@ The scripts create the following directory structure:
     ├── seccion4.tex
     └── seccion5.tex
 
+
 ## Usage
 
 ### Spanish Version: `generate_template_es.sh`
