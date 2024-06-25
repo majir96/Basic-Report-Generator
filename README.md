@@ -17,6 +17,7 @@ This repository contains two versions of a script to generate LaTeX document tem
 ## Directory Structure
 The scripts create the following directory structure:
 
+```
 <directory>/
 ├── images/
 ├── <title>.tex
@@ -26,7 +27,7 @@ The scripts create the following directory structure:
     ├── seccion3.tex
     ├── seccion4.tex
     └── seccion5.tex
-
+```
 
 ## Usage
 
