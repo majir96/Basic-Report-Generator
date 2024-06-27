@@ -227,7 +227,7 @@ cat <<EOT > "$template_file"
 EOT
 
 for i in $(seq 1 $number); do
-    echo "\\input{sections/section$i}" >> "$template_file"
+    echo "\\input{sections/section$i.tex}" >> "$template_file"
     echo >> "$template_file"
 done
 
