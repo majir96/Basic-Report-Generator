@@ -74,7 +74,7 @@ This script generates a LaTeX template with options in English.
 ----
 # License and Contributions
 
-**This project is licensed under the GNU General Public License v3.0 (GPL-3.0). You are free to use, modify, and distribute this software under the terms of the GPL-3.0 license. For more details, see the [LICENSE] file.**
+**This project is licensed under the GNU General Public License v3.0 (GPL-3.0). You are free to use, modify, and distribute this software under the terms of the GPL-3.0 license. For more details, see the [[LICENSE]] file.**
 
 Contributions from the community are welcomed! If you would like to contribute, you can:
 
