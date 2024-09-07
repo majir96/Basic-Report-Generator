@@ -261,7 +261,7 @@ cat <<EOT > "$template_file"
     keywordstyle=\color{blue},
     numberstyle=\tiny\color{codegray},
     stringstyle=\color{codepurple},
-    basicstyle=\ttfamily\scriptisize,
+    basicstyle=\ttfamily\scriptsize,
     breakatwhitespace=false,
     breaklines=true,
     captionpos=b,
